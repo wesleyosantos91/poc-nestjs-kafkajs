@@ -83,6 +83,6 @@ $ npm run start:prod
             "email": "andersonsever@creativeinteriores.com.br",
             "phone": "55987640532",
             "password": "12345"
-          }
+         }
     ```
   
